@@ -8,7 +8,7 @@ A simple, privacy-first expense tracking web app that runs entirely in the brows
 
 ## Features
 
-- **Add / Edit / Delete** expenses with amount, category, date, and description
+- **Add / Edit / Delete** expenses with amount, category, date, and description 
 - **8 categories:** Food, Transport, Housing, Health, Entertainment, Shopping, Education, Other
 - **Dashboard** — monthly total, budget progress bar, top category, recent expenses
 - **Expense list** — search, filter by category & date range, sort, paginated scroll
